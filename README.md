@@ -2,7 +2,7 @@
 🖥 To-Do-List implementado utilizando Spring no Backend e Angular no Frontend
 
 ### Sobre
-![print-todo](https://github.com/adcavalcant/To-Do-List/frontend/src/assets/img/print-todo.png?raw=true)
+![print-todo](https://github.com/adcavalcant/To-Do-List/blob/master/frontend/src/assets/img/print-todo.png)
 
 ### 🛠 Tecnologias utilizadas / Pré-Requisitos
 
