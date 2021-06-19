@@ -1,6 +1,5 @@
-<h1 align="center">
-	<a href="https://github.com/adcavalcant/To-Do-List">To-Do-List</a>
-<p align="center">🚀 To-Do-List implementado utilizando Spring no Backend e Angular no Frontend</p>
+# To-Do-List
+🖥 To-Do-List implementado utilizando Spring no Backend e Angular no Frontend
 
 ### Sobre
 ![print-todo](https://github.com/adcavalcant/To-Do-List/frontend/src/assets/img/print-todo.png?raw=true)
