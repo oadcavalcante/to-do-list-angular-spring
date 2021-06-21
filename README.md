@@ -4,6 +4,9 @@
 ### Sobre
 ![print-todo](https://github.com/adcavalcant/To-Do-List/blob/master/frontend/src/assets/img/print-todo.png)
 
+### 🏛️ Arquitetura do projeto
+![arquitetura](https://github.com/adcavalcant/To-Do-List/blob/master/arquitetura-projeto.png)
+
 ### 🛠 Tecnologias utilizadas / Pré-Requisitos
 
 As seguintes ferramentas foram usadas na construção do projeto:
