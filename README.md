@@ -29,7 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
     Ao clonar o projeto, dentro da pasta principal terá 2 subpastas (backend e frontend), para o backend seguir o próximo passo...
 - [Tutorial para Rodar o Projeto Backend desenvolvido em Spring](https://pt.stackoverflow.com/questions/381296/como-versionar-projeto-spring-boot)  
 
-- Ao terminar de importar o projeto, irá aparecer uma pasta com todos os arquivos do lado esquerdo da tela. Ao iniciar todas as dependências serão baixadas, você poderá ver a barra de status no lado inferior direito, ao terminar de baixar as dependências você poderá rodar o projeto, clicando no botão "run" na barra superior.
+- Ao terminar de importar o projeto, irá aparecer uma pasta com todos os arquivos do lado esquerdo da tela. Ao iniciar, todas as dependências serão baixadas, você poderá ver a barra de status no lado inferior direito, ao terminar de baixar as dependências você poderá rodar o projeto, clicando no botão "run" na barra superior.
     Com o projeto backend rodando, seguir o próximo passo para rodar o frontend.
 - [Rodando o Frontend Angular]
     Entrar no cmd, rodar o comando 'cd frontend' para entrar na pasta do projeto em angular, será necessário baixar as dependências do node. Para isso insira o seguinte comando: 'npm install', ao terminar a instalação. Digite 'ng serve', o projeto irá rodar na url 'http://localhost:4200'
