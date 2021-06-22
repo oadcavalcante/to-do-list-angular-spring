@@ -23,14 +23,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Java 11 LTS e Spring Tools Suíte]
     Baixar e instalar o Java 11 LTS do site https://www.azul.com/downloads/?version=java-11-lts&package=jdk e o Spring Tools Suíte https://https://spring.io/;
+    
 - [Git Clone] 
     Baixar e instalar o Git https://git-scm.com/downloads, com o git instalado, no Terminal (cmd, bash) digitar o seguinte comando: 'git clone https://github.com/adcavalcant/To-Do-List.git';
+    
 - [Rodando o Projeto]
     Ao clonar o projeto, dentro da pasta principal terá 2 subpastas (backend e frontend), para o backend seguir o próximo passo...
+    
 - [Tutorial para Rodar o Projeto Backend desenvolvido em Spring](https://pt.stackoverflow.com/questions/381296/como-versionar-projeto-spring-boot)  
 
-- Ao terminar de importar o projeto, irá aparecer uma pasta com todos os arquivos do lado esquerdo da tela. Ao iniciar, todas as dependências serão baixadas, você poderá ver a barra de status no lado inferior direito, ao terminar de baixar as dependências você poderá rodar o projeto, clicando no botão "run" na barra superior.
-    Com o projeto backend rodando, seguir o próximo passo para rodar o frontend.
+- Ao terminar de importar o projeto, irá aparecer uma pasta com todos os arquivos do lado esquerdo da tela. Ao iniciar, todas as dependências serão baixadas, você poderá ver a barra de status no lado inferior direito, ao terminar de baixar as dependências, você poderá rodar o projeto clicando no botão "run" na barra superior. Com o projeto backend rodando é possível testar a API utilizando as ferramentas [Postman](https://www.postman.com/) ou [Insomnia](https://insomnia.rest/download), para isso basta digitar a url http://localhost:8080/todos. 
+
+- Seguir o próximo passo para rodar o frontend.
+
 - [Rodando o Frontend Angular]
     Entrar no cmd, rodar o comando 'cd frontend' para entrar na pasta do projeto em angular, será necessário baixar as dependências do node. Para isso insira o seguinte comando: 'npm install', ao terminar a instalação. Digite 'ng serve', o projeto irá rodar na url 'http://localhost:4200'
 
