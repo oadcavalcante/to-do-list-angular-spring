@@ -39,6 +39,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Rodando o Frontend Angular]
     Entrar no cmd, rodar o comando 'cd frontend' para entrar na pasta do projeto em angular, será necessário baixar as dependências do node. Para isso insira o seguinte comando: 'npm install', ao terminar a instalação. Digite 'ng serve', o projeto irá rodar na url 'http://localhost:4200'
 
+---
+- O projeto está em Produção em um servidor gratuito do Heroku, no link: http://apptodolist-ad.herokuapp.com/ 
+
+
 ### * Autor
 ---
 
