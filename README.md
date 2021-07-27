@@ -1,5 +1,5 @@
 # To-Do-List
-🖥 To-Do-List implementado utilizando Spring no Backend e Angular no Frontend
+🖥 To-Do-List implementado utilizando Spring no Backend e Angular Framework no Frontend
 
 ### Sobre
 ![print-todo](https://github.com/adcavalcant/To-Do-List/blob/master/frontend/src/assets/img/print-todo.png)
