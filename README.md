@@ -1,4 +1,4 @@
-# To-Do-List
+# To Do List desenvolvido com Angular e Spring
 🖥 To-Do-List implementado utilizando Spring no Backend e Angular Framework no Frontend
 
 ### Sobre
